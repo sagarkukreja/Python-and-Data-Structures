@@ -1,7 +1,7 @@
 """
 CSCI-603 Parser Lab
 Author: Sean Strout @ RIT CS
-Co-Author: Sagar Kukreja, Justin Lad
+Co-Author: Sagar Kukreja
 
 A print statement is of the prefix form, where {expression} is optional:
 
