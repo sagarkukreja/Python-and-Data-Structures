@@ -1,11 +1,9 @@
 __author__ = 'sk'
-__author__ = 'jrl'
 
 """
 CSCI 603 = Assignment 02
 File: turtleScene.py
 Language: python3
-Author: Justin Lad jrl8632@g.rit.edu
 Author:  Sagar Kukreja sk3126@rit.edu
 The program draws a night scene and a day scene from wood available from night scene
 """
