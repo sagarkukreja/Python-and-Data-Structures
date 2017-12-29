@@ -2,7 +2,7 @@ __author__ = 'sk'
 
 """
 CSCI-603 : Assignment 1
-Author: Sagar Kukreja (sk3126@crit.edu)
+Author: Sagar Kukreja (sk3126@rit.edu)
 
 This is a  program that draws person's last name using turtle.  It demonstrates
 the importance of using a hierarchy of functions that can be re-used.
