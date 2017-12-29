@@ -1,7 +1,7 @@
 """
 CSCI-603 Parser Lab
 Author: Sean Strout @ RIT CS
-C0-Author: Sagar Kukreja, Justin Lad
+C0-Author: Sagar Kukreja
 
 A math expression is of the prefix form:
 
