@@ -1,11 +1,10 @@
 __author__ = 'sk'
-__author__ = 'jrl'
+
 
 """
 CSCI 603 = Assignment 04
 File: transformer.py
 Language: python3
-Author: Justin Lad jrl8632@g.rit.edu
 Author:  Sagar Kukreja sk3126@rit.edu
 The program implements encryption and decryption
 """
