@@ -1,7 +1,7 @@
 """
 CSCI-603 PreTee Lab
 Author: Sean Strout @ RIT CS
-Co-Author: Sagar Kukreja, Justin Lad
+Co-Author: Sagar Kukreja
 
 The main program and class for a prefix expression interpreter of the
 PreTee language.  See prog1.pre for a full example.
