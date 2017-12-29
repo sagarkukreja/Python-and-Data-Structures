@@ -2,7 +2,7 @@
 The main module for running the Shish Kebab program.
 
 Author: Sean Strout @ RITCS
-Contributing Authors : Sagar Kukreja, Justin Lad
+Contributing Authors : Sagar Kukreja
 """
 
 import sys
