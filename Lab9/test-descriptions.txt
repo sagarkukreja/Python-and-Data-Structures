@@ -1,0 +1,8 @@
+test1.txt --
+General test case where cows and paintballs are spread randomly and some are within the radius of each other
+
+test2.txt --
+All cows are out of radius of paintballs
+
+test3.txt --
+All cows and paintballs are very close to each other such that all cows fall within radius of one or other paintballs.
